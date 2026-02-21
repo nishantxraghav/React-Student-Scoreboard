@@ -1,4 +1,4 @@
-# 🧪 Lab 3 -- React Student Scoreboard
+# React Student Scoreboard
 
 A React application that displays and updates student scores using a
 component-based architecture.\
